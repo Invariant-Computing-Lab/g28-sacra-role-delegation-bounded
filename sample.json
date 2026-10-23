@@ -1,0 +1,9 @@
+{
+  "grantor_permissions": [
+    "read",
+    "comment"
+  ],
+  "requested_permissions": [
+    "read"
+  ]
+}
